@@ -1,0 +1,26 @@
+{
+  "name": "ts-patterns-factory",
+  "version": "1.0.0",
+  "description": "Factory Pattern in Typescript",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelkamran/ts-patterns-factory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelkamran/ts-patterns-factory/issues"
+  },
+  "homepage": "https://github.com/gelkamran/ts-patterns-factory#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
+    "parcel": "^2.0.1"
+  }
+}
